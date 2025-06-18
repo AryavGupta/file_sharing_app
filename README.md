@@ -43,3 +43,19 @@ file_sharing_app/
 ```bash
 git clone https://github.com/yourusername/file_sharing_app.git
 cd file_sharing_app
+
+```
+### 2. Install dependencies
+Frontend:
+```bash
+cd file-sharing
+npm install
+npm start
+```
+
+Backend:
+```bash
+cd server
+npm install
+node index.js
+```
