@@ -30,11 +30,11 @@ This is a full-stack file-sharing application consisting of:
 
 ## 🧩 Folder Structure
 
+```bash
 file_sharing_app/
-├── file-sharing/ # React frontend
-└── server/ # Node.js backend
-
-
+├── file-sharing/   # React frontend
+└── server/         # Node.js backend
+```
 ---
 
 ## 💻 How to Run
